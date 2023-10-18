@@ -7,7 +7,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusSs17&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
-[![ GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusSs17&theme=gotham)](https://github.com/MrKrishnaAgarwal/readme-components-github)
+[![ GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusSs17)](https://github.com/MrKrishnaAgarwal/readme-components-github)
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=MatheusSs17&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
